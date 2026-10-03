@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "77254eab2b11ce88d98da1d1",
+  "owner": "wbwftxwku",
+  "repo": "page-2079994ebeffaa3d1b016998",
+  "title": "JX数据",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2079994ebeffaa3d1b016998",
+      "a": "JX数据",
+      "b": "",
+      "entity": "JX数据",
+      "brand": "JX数据",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f4afc2ab5dbbfa440005d17b03986fd55a30e97575c57bfcc21811adc528d439",
+      "content": {
+        "keyword1": "JX数据",
+        "keyword2": "",
+        "primary_entity": "JX数据",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "JX数据提供可靠的网络加速与VPN梯子服务，支持机场订阅、全平台客户端下载，覆盖游戏加速、流媒体解锁与多设备同时在线。",
+          "AI_DESCRIPTION": "JX数据提供可靠的网络加速与VPN梯子服务，支持机场订阅、全平台客户端下载，覆盖游戏加速、流媒体解锁与多设备同时在线。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--bg:#071422;--deep:#0b1c2e;--cyan:#22d3ee;--text:#e8f4f8;--muted:#9fb8c8;--card:#12263a;--line:#1a3d5c}*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:var(--bg);color:var(--text);font-size:16px;line-height:1.65}a{color:var(--cyan);text-decoration:none}header,footer{background:var(--deep)}header{border-bottom:1px solid var(--line)}.wrap{max-width:1100px;margin:0 auto;padding:0 1rem}.nav{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;padding:0.85rem 0;gap:0.5rem}.logo{font-weight:700;font-size:1.2rem;color:var(--cyan)}nav{display:flex;flex-wrap:wrap;gap:0.35rem 0.9rem}nav a{color:var(--text)}main{padding:0.5rem 0 2rem}h1{font-size:1.85rem;color:#fff;margin:0.4rem 0 0.9rem;line-height:1.3}h2{font-size:1.4rem;color:var(--cyan);margin:2rem 0 0.7rem;padding-bottom:0.35rem;border-bottom:1px solid var(--line)}h3{font-size:1.12rem;color:#c5eef6;margin:0.3rem 0 0.55rem}.hero{padding:1.4rem 0 0.4rem}.hero p{color:var(--muted);max-width:46rem}.cta{margin-top:0.9rem}.stagger{display:flex;flex-wrap:wrap;gap:1.1rem;margin:1.1rem 0;align-items:stretch}.stagger.alt{flex-direction:row-reverse}.block,.plan{flex:1 1 260px;background:var(--card);padding:1.15rem 1.2rem;border-radius:8px;border:1px solid var(--line);min-width:0}.plans{display:flex;flex-wrap:wrap;gap:1rem;margin:1rem 0}.plan.featured{border:2px solid var(--cyan)}.price{font-size:1.45rem;font-weight:700;color:var(--cyan);margin:0.2rem 0}.muted{color:var(--muted)}ul{margin:0.4rem 0 0.7rem;padding-left:1.15rem}li{margin:0.25rem 0}.faq details{background:var(--card);margin:0.55rem 0;padding:0.55rem 1rem 0.7rem;border-radius:6px;border:1px solid var(--line)}.faq summary{font-weight:600;color:var(--cyan)}.faq p{margin:0.45rem 0 0;color:var(--muted)}footer{margin-top:2.2rem;padding:1.4rem 0 2rem;font-size:0.92rem;color:var(--muted);border-top:1px solid var(--line)}footer h3{color:var(--text);font-size:1rem}.friends a,.map a{display:inline-block;margin:0.2rem 0.85rem 0.2rem 0}@media (max-width:640px){h1{font-size:1.5rem}h2{font-size:1.25rem}.stagger,.stagger.alt{flex-direction:column}nav a{font-size:0.95rem}}</style><header><div class=\"wrap nav\"><a class=\"logo\" href=\"#\">JX数据</a><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#scenes\">场景</a><a href=\"#guide\">说明</a><a href=\"#faq\">问答</a></nav></div></header><main class=\"wrap\"><section class=\"hero\" id=\"intro\"><h1>JX数据</h1><p>JX数据是面向日常上网、跨境协作与娱乐需求的网络加速与机场订阅服务。我们把节点质量、设备并发和客户端可导入性放在一起说明，方便你按流量与同时在线台数选择方案，再在 Windows、macOS、Android、iOS 等系统中完成订阅导入。无论你要的是更稳的梯子体验、流媒体解锁，还是游戏向 IPLC 线路，都可以从本页了解套餐差异、客户端选择与操作步骤。</p><p class=\"cta\"><a href=\"#clients\">客户端选择与下载说明</a> · <a href=\"#plans\">查看加速器套餐</a> · <a href=\"#guide\">订阅导入步骤</a></p></section><h2>品牌简介</h2><div class=\"stagger\"><div class=\"block\"><h3>把加速器说清楚</h3><p>JX数据不以含糊的“全球高速”代替具体能力。基础版面向轻度浏览与基础流媒体；旗舰版提高流量、设备数，并强化原生解锁与 IPLC 游戏优化；团队版面向多成员与定制路由。机场订阅采用常见客户端可识别的格式，一份链接可在多端使用，同时在线数量以套餐为准。</p></div><div class=\"block\"><h3>官方渠道与使用边界</h3><p>请通过 JX数据官网阅读套餐与客户端指引，再在账户中心获取订阅。不要在来路不明的页面下载同名安装包。服务用于合法的网络加速、加密传输与内容访问；请遵守所在地法律及目标网站条款，不得将节点用于攻击、盗号或其他违法用途。</p></div></div><h2 id=\"plans\">套餐与机场订阅</h2><p class=\"muted\">月付与年付对应同一档能力，年付降低平均成本。流量为当月极速额度，周期内用尽后的策略以账户页说明为准。以下三档为当前公开方案。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#guide\">开通后如何导入</a></p></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#clients\">推荐客户端组合</a></p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#faq\">团队使用问答</a></p></article></div><h2 id=\"clients\">客户端选择与官网下载</h2><p>JX数据把客户端选择放在使用路径的中心：先确定系统与是否需要规则分流，再安装对应应用并粘贴订阅。本页提供选择逻辑与官方下载路径说明；安装包与订阅链接在登录后的账户中心获取，避免第三方二次打包。</p><div class=\"stagger\"><div class=\"block\"><h3>桌面端怎么选</h3><p>Windows 适合带图形界面、可导入订阅的 Clash 或 sing-box 客户端，便于系统代理与 TUN。macOS 常用 Surge 或 Clash 系工具，便于分应用与规则集。Linux 可用图形前端或命令行导入同一机场订阅。安装完成后更新节点，先测延迟再长期使用。</p><p><a href=\"#\">Windows 下载说明</a> · <a href=\"#\">macOS 下载说明</a> · <a href=\"#\">Linux 下载说明</a></p></div><div class=\"block\"><h3>移动端怎么选</h3><p>Android 可选用 Clash Meta 等支持订阅的应用；iOS 需自行准备 Shadowrocket、Stash 或同类工具后再导入。手机与平板计入设备并发。建议开启分应用代理，减少耗电。公共网络下注意系统 VPN 开关与本地时间是否准确。</p><p><a href=\"#\">Android 下载说明</a> · <a href=\"#\">iOS 导入说明</a></p></div></div><div class=\"stagger alt\"><div class=\"block\"><h3>选择客户端的三条标准</h3><p>要一键开关，选界面清晰、连接状态明确的图形客户端。要国内直连、国外走梯子，选支持规则分流的方案。要游戏加速，优先确认 UDP 与低延迟协议。JX数据订阅通常包含多种协议入口，同一链接可在多端使用，只要不超过套餐同时在线台数。</p></div><div class=\"block\"><h3>官方下载注意</h3><p>从本站导航进入客户端栏目，再前往账户中心获取当前版本。不要把订阅链接或二维码发到公开群，以免流量被盗用。更新客户端后请重新更新订阅。若系统提示未签名或来源不明，停止安装并回到官网核对说明。</p></div></div><h2 id=\"scenes\">使用场景</h2><div class=\"stagger\"><div class=\"block\"><h3>流媒体与资讯浏览</h3><p>需要更稳定的海外影视与音乐时，优先旗舰版的原生解锁节点，并把视频应用走代理、国内应用直连，以节省流量。基础版覆盖常见内容站点。播放卡顿时先换同区域节点，再检查是否误开全局模式导致国内站点绕行。</p></div><div class=\"block\"><h3>游戏与实时语音</h3><p>IPLC 优化线路适合对抖动敏感的对战与组队语音。选择标注游戏加速的节点，允许 UDP，并避免在同一设备上叠加多层加速器。团队版高带宽适合开黑同时进行远程协作。</p></div></div><div class=\"stagger alt\"><div class=\"block\"><h3>学习与跨境办公</h3><p>网课、文献库和会议软件可通过分流只代理必要域名。多设备同时在线时预留套餐并发：电脑开会、手机查资料会占用两台。团队版可配合定制路由统一出口策略。</p></div><div class=\"block\"><h3>出行与公共网络</h3><p>在酒店或机场 Wi-Fi 下，加密传输可降低明文被窥探的风险。切换地区后更新订阅并挑选邻近节点。请仅用于合法访问，并遵守当地对网络服务的规定。</p></div></div><h2 id=\"guide\">操作说明</h2><h3>获取机场订阅</h3><p>在 JX数据官方渠道选定基础版、旗舰版或团队版并完成支付后，打开账户中心复制订阅地址。该地址用于客户端拉取节点，请当作个人凭证保管。年付与月付在导入方式上没有区别。</p><h3>导入客户端并连接</h3><p>打开已安装的客户端，选择从 URL 添加或更新订阅，粘贴链接并保存。等待节点列表刷新后，按延迟或用途选择节点，开启规则模式或系统代理。首次使用建议访问一个国际站点确认通路，再打开流媒体或游戏。</p><h3>日常维护</h3><p>网络切换（Wi-Fi 与移动数据）后若掉线，重新连接一次。定期更新订阅以获取新节点。流量可在客户端或账户页查看约数。旗舰用户可通过优先工单反馈节点与客户端版本；团队用户可联系客户经理调整路由需求。</p><h2 id=\"faq\">常见问题</h2><div class=\"faq\"><details><summary>JX数据是什么？和单一 VPN 应用有何不同？</summary><p>JX数据是网络加速与机场订阅服务：你获得的是可导入主流客户端的节点列表，而不是只能在一个封闭 App 里开关的固定线路。你可以按延迟选择节点，用规则实现分流，并在套餐设备数内把同一订阅用到电脑和手机，更接近加速器加梯子的组合用法。</p></details><details><summary>如何进行客户端下载与官网核对？</summary><p>先在本页阅读对应系统的选择建议，再登录 JX数据账户中心获取安装说明与订阅。iOS 应用一般需通过官方应用商店自行准备兼容软件。任何要求你脱离官网、扫来路不明二维码下载的途径都不应采用。</p></details><details><summary>各套餐同时在线设备数如何计算？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。电脑、手机、平板、路由器科学插件只要保持连接即计入。超出后可能无法新连或挤掉旧会话。若家庭或工作室长期多端，直接按峰值设备数选型。</p></details><details><summary>每月流量与年付是怎样结算的？</summary><p>套餐标明的是当月极速流量，例如基础版 100GB、旗舰版 300GB、团队版 1000GB。年付是 12 个月费用优惠，流量仍按月重置，不会默认把全年流量合并成一笔总额。用尽后的降速或提醒规则以账户说明为准。</p></details><details><summary>能否解锁流媒体？游戏加速和 IPLC 怎么理解？</summary><p>基础版提供基础流媒体解锁；旗舰版强调全节点原生解锁，并带 IPLC 专线游戏加速优化；团队版另有 VIP 高带宽节点。解锁结果会随目标站点策略变化，失败时请换节点或提交工单。游戏请选用标注加速的线路并放行 UDP。</p></details><details><summary>订阅更新失败或连上后无法访问怎么办？</summary><p>核对系统时间、客户端版本，然后手动更新订阅。尝试更换节点、切换规则/全局、更换本地网络。仍失败时记录报错与节点名称，经工单反馈。不要反复导入来自聊天群的不明配置。</p></details><details><summary>团队版定制路由包含什么？</summary><p>团队版在大流量与 20 台并发之外，提供 VIP 高带宽节点、企业定制路由和专属客户经理。适合需要统一出口、按域名或地区分流的小团队。具体策略在开通后沟通，不在公开页承诺未核实的专线细节。</p></details></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>JX数据官方网站 · VPN 梯子与机场订阅 · 加速器套餐与客户端下载说明以账户中心为准</p><div><h3>广告与合作信息</h3><p>本页用于套餐公示、客户端选择与使用说明。服务公告、合规合作与节点相关商务请通过官方工单联系，不在此放置跳转不明下载站的外链广告。</p></div><div class=\"friends\"><h3>友情链接</h3><p><a href=\"#clients\">客户端手册</a><a href=\"#plans\">套餐说明</a><a href=\"#guide\">接入指南</a><a href=\"#faq\">帮助中心</a><a href=\"#\">服务状态</a><a href=\"#\">隐私与条款</a></p></div><div class=\"map\"><h3>站点地图</h3><p><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端下载</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></p><p>完整 sitemap.xml 位于站点根目录，收录本落地页及简介、套餐、客户端、帮助等栏目，供检索抓取使用。</p></div><p>© JX数据 保留所有权利。使用网络加速服务时请遵守当地法律法规。</p></div></footer>",
+          "hash": "8611cf6c3ef641600229a27d94ad52828280c414de92c089042aac00ffe3c803",
+          "seo": {
+            "title": "JX数据官网 - 高速VPN加速器与机场客户端下载",
+            "keywords": "JX数据,JX数据VPN,JX数据机场,网络加速器,梯子,加速器,客户端下载,官网下载,流媒体解锁,IPLC,游戏加速",
+            "description": "JX数据提供可靠的网络加速与VPN梯子服务，支持机场订阅、全平台客户端下载，覆盖游戏加速、流媒体解锁与多设备同时在线。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fgfyd.cn",
+    "host": "p-973eac7304.fgfyd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "fgfyd.cn",
+      "url": "https://fgfyd.cn/",
+      "label": "自由鲸(freewhale)",
+      "apex": "fgfyd.cn",
+      "kind": null,
+      "identity": "qeuasaj/page-cd2600b6cdc60b1e383e707b"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "7cefd00b5661bdcf45eb888075566b917fcb60f18d4efc65b7dca392dc6770ca",
+    "sitemap.xml": "a1affe446039a4f4d9cbb29aa6854e6d316fbe1a233cba13a88367915b8ca81c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d5dc6c470d01d973c7d8b5df4206ba151153246bc1b10e7c16b2bc9c77a30858",
+    "robots.txt": "cae61522b5871ea5c478a556ea24a611fd785adb10bf106a06fdce5ea5b22032",
+    "04ef275209654e4b5f62adb51f73013e.txt": "7765ea2b8c058528d351314c62a4cb594e1e66e91e86f9168544f87b01010f85"
+  },
+  "revision": "c043ef60aacaca7fcb2b805324097657671455dd682aff49f9c83e8d6a273801"
+}
